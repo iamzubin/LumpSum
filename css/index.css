@@ -1,0 +1,192 @@
+html, body {      
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+    background-color: #FCFCFC;
+    color: #66637A;
+    align-items: center;
+    align:center;
+}
+
+.homeHead {
+    color: #FCFCFC;
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+    background-color: #17C3BD;
+}
+
+.desc {
+    color: #66637A;
+    margin: 20px auto;
+    font-size: 20px;
+    width: 500px;
+    text-align: center;
+}
+
+.material-icons{
+    position: absolute;
+    right: 0px;
+    top: 5px;
+    padding: 15px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.supEdit {
+    text-decoration: none;
+    color: #FCFCFC;
+}
+
+.support {
+    left: 0px;
+    width: 10px;
+}
+
+.homeDet {
+    color: #66637A;
+    margin: auto;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.desc {
+    margin: 30px auto;
+}
+
+.det {
+    text-align: center;
+    margin: 30px auto;
+    margin-top: 50px;
+}
+
+.inputElem {
+    width: 250px;
+    padding: 17px;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid;
+    outline: none !important;
+    height: 30px;
+    margin: 10px auto;
+    color: #66637A;    
+}
+
+.styled select {
+    background: transparent;
+    color: #66637A;
+    width: 250px;
+    font-size: 18px;
+    font-family: 'Cabin', sans-serif;
+    border: 1px solid;
+    height: 30px;
+    margin: 10px auto;
+}
+
+select{
+    text-indent: 85px;
+    border: 1px solid;    
+}
+
+.submitIn {
+    background-color: #17C3BD;
+    margin-bottom: 50px;
+    color: #FCFCFC;
+    width: 150px;
+    border-radius: 20px;
+}
+
+.submitIn:focus {
+    outline: none;
+}
+
+.form{
+    text-align: justify;
+    align-content: center;
+}
+.inputDet {
+    color: #FCFCFC;
+    margin: 50px auto;
+    margin-top: -20px;
+    background-color: #02D1BF;
+    border-radius: 10px;
+    font-size: 25px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    align-self: center;
+    cursor: pointer;
+}
+
+.inputDet:hover {
+    background-color: rgb(23, 138, 126);
+}
+
+.footer {
+    background-color: #0EC7BC;;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    font-size: 24px;
+}
+
+.button {
+    color: #66637A;
+}
+
+input {
+    width: 250px;
+    height:30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.linkDef {
+    color: #FCFCFC;
+}
+
+.bottomFoot {
+    background-color: rgb(9, 143, 134);;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.dataOut {
+    margin: 50px auto;
+}
+
+.recordDet {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+@media screen and (max-width: 450px) {
+
+        .desc {
+            width: auto;
+        }
+
+        .footer {
+            font-size: 22px;
+        }
+
+        .bottomFoot {
+            font-size: 12px;
+        }
+
+    }
+        
+        
+textarea {
+    width: 250px;
+    font-family: 'Cabin', sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,107 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Lump Sum Delivery - Vendor App",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "http://lumpsum.palashis.online/admin_login.php",
+    "short_name": "Vendor",
+    "theme_color": "transparent",
+    "description": "Food in Bennett. Anytime. Anywhere.",
+    "orientation": "portrait",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/img/3d5f84e1-4ee4-df9f-9478-b8bb866bf2f4.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/0431ed8e-9ef1-4364-dd53-a222a6da32f6.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/a2be8737-0d4b-f571-9498-4cd107a221a4.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/83157748-b14a-de1b-6ffe-35ecdb4f5837.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/641602e3-d63f-c072-5358-b13307ad2351.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/e31f4072-03d4-fd19-ed04-bb411dd76967.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/b9405f2c-d04e-7bed-a576-960b3727c99f.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/8185f0dd-7e4d-5564-5bd7-87eaff2121a2.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/5c63599f-df00-7299-fd9a-3d53f756beba.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/1c42d6a3-5fa2-62c5-1df9-a2868e0955f7.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/e9bef3fe-bf18-c5e1-d41f-0fbd974cfec5.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/a9f44db2-d2ef-f70a-d38b-c2ceca745e08.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ace25933-8393-7124-aab8-746881c2b54c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/4d0a194a-f25f-c1b3-ed18-2a3b46e2a981.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/ef31ccfb-18f5-195c-74f6-22581ce8705c.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/203403ea-dd8e-c5ad-6370-2d7543086c5c.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/66d5ef9e-1506-d0db-fc9f-46e7027c7683.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/0ca0764e-6eb9-f4dc-33a9-98cff6792aad.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
