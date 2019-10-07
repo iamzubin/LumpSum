@@ -1,7 +1,7 @@
 $(document).ready(function(){  
     function fetch_data()  
     {  
-         $.ajax({  
+         return $.ajax({  
               url:"select_orders.php",  
               method:"POST",  
               success:function(data){  
@@ -13,7 +13,7 @@ $(document).ready(function(){
 
  
     function edit_data(id, text, column_name)  {  
-     $.ajax({  
+     return $.ajax({  
           url:"edit.php",  
           method:"POST",  
           data:{id:id, text:text, column_name:column_name},  

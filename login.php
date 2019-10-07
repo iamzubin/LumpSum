@@ -1,4 +1,5 @@
 <?php
+session_start();
     ob_start();    
     require 'connect.php';
    // include('session.php');
@@ -13,7 +14,7 @@
     // echo $num_row;
         if($num_row > 0) {
          
-    session_start();
+    
          $_SESSION["email"] = $email;
         //  echo var_dump($_SESSION);
         header("location: logged.php");
